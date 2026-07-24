@@ -1,4 +1,4 @@
-# 🚀 ServiceNow Incident Creation Using Import Set API and OAuth 2.0
+# 🚀 ServiceNow And Postman integration Using Import Set API and OAuth 2.0
 
 Secure REST API Integration between **Postman** and **ServiceNow** using
 **OAuth 2.0 Authorization Code Flow** and **Import Set API**.
