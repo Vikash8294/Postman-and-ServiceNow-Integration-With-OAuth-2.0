@@ -9,7 +9,7 @@ Secure REST API Integration between **Postman** and **ServiceNow** using
 
 > After uploading your demo video to GitHub, replace the link below.
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_LINK
+https://github.com/user-attachments/assets/
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ Create New
 
 The Import Set Table acts as a staging table for incoming data.
 
-`<img src="image/import set table.png" width="900"/>`{=html}
+<img src="image/import set table.png">
 
 ------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ Transform Map
 Configured Source Table and Target Table (Incident), then mapped
 required fields.
 
-`<img src="image/Transform map.png" width="900"/>`{=html}
+<img src="image/Transform map.png">
 
 ------------------------------------------------------------------------
 
@@ -189,7 +189,7 @@ New
 Configured Client ID, Client Secret, Redirect URL, Authorization URL and
 Token URL.
 
-`<img src="image/Postman application registry.png" width="900"/>`{=html}
+<img src="image/Postman application registry.png" width="1000">
 
 ------------------------------------------------------------------------
 
@@ -198,7 +198,7 @@ Token URL.
 Configured OAuth 2.0 authentication using Client ID, Client Secret,
 Authorization URL and Token URL.
 
-`<img src="image/postman OAuth2.0 1.png" width="900"/>`{=html}
+<img src="image/postman OAuth2.0 1.png">
 
 ------------------------------------------------------------------------
 
@@ -226,7 +226,8 @@ POST
 }
 ```
 
-`<img src="image/postman Oauth 2.0 2.png" width="900"/>`{=html}
+
+<img src="image/postman Oauth 2.0 2.png">
 
 ------------------------------------------------------------------------
 
