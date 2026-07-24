@@ -9,7 +9,7 @@ Secure REST API Integration between **Postman** and **ServiceNow** using
 
 > After uploading your demo video to GitHub, replace the link below.
 
-https://github.com/user-attachments/assets/
+https://github.com/Vikash8294/Postman-and-ServiceNow-Integration-With-OAuth-2.0/blob/main/Demo%20Viedo.mp4
 
 ------------------------------------------------------------------------
 
